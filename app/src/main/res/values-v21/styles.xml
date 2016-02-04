@@ -2,7 +2,7 @@
 
 	<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
 		<item name="colorPrimary">@color/blockchain_blue</item>
-		<item name="colorPrimaryDark">@color/blockchain_dark_blue</item>
+		<item name="colorPrimaryDark">@color/blockchain_blue</item>
 		<item name="colorAccent">@color/blockchain_blue</item>
 
 		<item name="android:textColorPrimary">@color/textColorPrimary</item>
@@ -10,7 +10,7 @@
 		<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
 
 		<item name="android:windowDrawsSystemBarBackgrounds">true</item>
-		<item name="android:statusBarColor">@color/blockchain_dark_blue</item>
+		<item name="android:statusBarColor">@color/blockchain_blue</item>
 
 		<item name="android:windowBackground">@color/blockchain_pearl_white</item>
 		<item name="android:windowContentTransitions">true</item>
@@ -26,6 +26,18 @@
 	<style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
 		<item name="spinBars">true</item>
 		<item name="color">@android:color/white</item>
+	</style>
+
+	<style name="AppBaseTheme" parent="AppTheme">
+		<item name="android:windowDrawsSystemBarBackgrounds">true</item>
+		<item name="android:statusBarColor">@color/blockchain_blue</item>
+	</style>
+
+	<style name="Theme.MyTheme" parent="Theme.AppCompat.Light">
+		<!-- Set AppCompat’s color theming attrs -->
+		<item name="colorPrimary">@color/ALA_MAROON</item>
+		<item name="colorPrimaryDark">@color/ALA_MAROON</item>
+		<!-- Other attributes -->
 	</style>
 
 </resources>

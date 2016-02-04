@@ -2,15 +2,15 @@
 
 	<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
 		<item name="colorPrimary">@color/blockchain_blue</item>
-		<item name="colorPrimaryDark">@color/blockchain_dark_blue</item>
-		<item name="colorAccent">@color/blockchain_blue</item>
+		<item name="colorPrimaryDark">@color/ALA_MAROON</item>
+		<item name="colorAccent">@color/ALA_MAROON</item>
 
 		<item name="android:textColorPrimary">@color/textColorPrimary</item>
 		<item name="android:navigationBarColor">@color/blockchain_navigation_bar</item>
 		<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
 
 		<item name="android:windowDrawsSystemBarBackgrounds">true</item>
-		<item name="android:statusBarColor">@color/blockchain_dark_blue</item>
+		<item name="android:statusBarColor">@color/blockchain_blue</item>
 
 		<item name="android:windowBackground">@color/blockchain_pearl_white</item>
 		<item name="android:windowContentTransitions">true</item>
