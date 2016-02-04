@@ -101,7 +101,7 @@
 
 		</LinearLayout>
 	</LinearLayout>
-
+=
 	<include layout="@layout/activity_pin_entry_keyboard_include"/>
 
 </LinearLayout>
