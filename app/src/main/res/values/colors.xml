@@ -2,7 +2,8 @@
 <resources>
 
 	<!--Spec v1.3-->
-	<color name="blockchain_blue">#FF1B8AC7</color>
+	<color name="blockchain_blue">#800000</color>
+	<color name="ALA_MAROON">#800000</color>
 	<color name="blockchain_dark_blue">#1476ab</color>
 	<color name="blockchain_send_red">#e27e82</color>
     <color name="blockchain_receive_green">#85b45b</color>

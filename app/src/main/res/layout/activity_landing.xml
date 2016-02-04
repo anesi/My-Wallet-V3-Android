@@ -7,7 +7,7 @@
 	<LinearLayout
 		android:layout_width="match_parent"
 		android:layout_height="match_parent"
-		android:background="@color/blockchain_blue"
+		android:background="@color/ALA_MAROON"
 		android:orientation="vertical"
 		>
 
@@ -35,7 +35,7 @@
 			android:layout_weight="50"
 			android:orientation="vertical"
 			android:layout_gravity="center_horizontal"
-			android:background="@color/blockchain_blue"
+			android:background="@color/ALA_MAROON"
 			>
 
 			<Button
@@ -47,7 +47,7 @@
 				android:text="@string/CREATE"
 				android:textSize="20sp"
 				android:background="@drawable/rounded_view_white2"
-				android:textColor="@color/blockchain_blue"
+				android:textColor="@color/ALA_MAROON"
 				android:layout_gravity="center_horizontal"
 				android:layout_marginTop="20dp"
 				/>
@@ -59,9 +59,9 @@
 				android:padding="10dp"
 				android:text="@string/LOGIN"
 				android:textSize="20sp"
-				android:background="@color/blockchain_blue"
+				android:background="@drawable/rounded_view_white2"
 				android:gravity="center"
-				android:textColor="@color/white"
+				android:textColor="@color/ALA_MAROON"
 				android:layout_marginTop="20dp"
 				/>
 

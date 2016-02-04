@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:minWidth="420dp"
-    android:background="@color/blockchain_blue"
+    android:background="@color/ALA_MAROON"
     android:orientation="vertical"
     android:layout_gravity="center_horizontal"
     android:gravity="center_horizontal"
